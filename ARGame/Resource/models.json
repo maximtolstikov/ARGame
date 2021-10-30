@@ -1,0 +1,31 @@
+[
+    {
+        "artName": "art.scnassets",
+        "fileName": "AirForce",
+        "fileExtension": "scn",
+        "nodeName": "baked_mesh"
+        
+    },
+    {
+        "artName": "art.scnassets",
+        "fileName": "toy_biplane",
+        "fileExtension": "scn",
+        "nodeName": "toy_biplane"
+        
+    },
+    {
+        "artName": "art.scnassets",
+        "fileName": "toy_drummer",
+        "fileExtension": "scn",
+        "nodeName": "toy_drummer"
+        
+    },
+    {
+        "artName": "art.scnassets",
+        "fileName": "toy_robot_vintage",
+        "fileExtension": "scn",
+        "nodeName": "toy_robot_vintage"
+        
+        
+    }
+]
