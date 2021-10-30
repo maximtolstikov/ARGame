@@ -13,11 +13,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        setupWindow()
+        runFlow()
         return true
     }
     
-    private func setupWindow() {
+    private func runFlow() {
         self.window = window ?? UIWindow()
         let gameViewController = ModuleFactory.buildStartScreen()
         window?.rootViewController = UINavigationController(rootViewController: gameViewController)
